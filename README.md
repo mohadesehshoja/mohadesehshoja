@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohadesehshoja
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning jango
+- 🌱 I’m currently learning django
 
 <!---
 mohadesehshoja/mohadesehshoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
